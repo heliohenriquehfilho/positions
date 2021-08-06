@@ -1,0 +1,27 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4137542, 2021-08-06T14:27:37-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: GenericG50CCTypicDEMO by More Etc
+ * URL: https://www.myfonts.com/fonts/more-etc/generic/g50-cc-typic-demo/
+ * Copyright: Copyright © 2020 by Robert Samsonowitz. All rights reserved.
+ * 
+ * 
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+
+  
+@font-face {
+  font-family: "GenericG50CCTypicDEMO";
+  src: url('webFonts/GenericG50CCTypicDEMO/font.woff2') format('woff2'), url('webFonts/GenericG50CCTypicDEMO/font.woff') format('woff');
+}
+
